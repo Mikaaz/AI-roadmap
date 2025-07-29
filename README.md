@@ -31,6 +31,7 @@ A strong foundation is the key to unlocking advanced AI topics.  In this section
 
 These subjects underpin all modern computing.  Take your time here; a strong grasp of these ideas will pay dividends later.  By learning how machines represent and manipulate information, you will be prepared to optimise code, debug issues and design systems that scale.  Each topic builds on the previous one: you start by writing simple programs, then understand how algorithms manage memory and time, and eventually explore how operating systems and networks coordinate complex tasks.
 
+
 | Topic | Why it matters | Free resources (format) | Difficulty |
 | --- | --- | --- | --- |
 | **Programming Basics** | Learn to think like a programmer, write simple scripts and understand variables, control flow and data types. | [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/) (edX, Video) – a comprehensive entry‑level course; [Python for Everybody](https://www.coursera.org/specializations/python) (Coursera, Video) – gentle introduction using Python; [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) (Text) – practical book that teaches Python through simple projects. | Easy |
